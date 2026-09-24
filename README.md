@@ -10,7 +10,7 @@
 ## 📂 Проекты
 
 ### 📜 Сертификаты
-- **SQL Pro Course** — 90% 
+- **SQL Pro Course** (Stepik) — 90% | [Смотреть сертификат](certificates/)
 
 ---
 
