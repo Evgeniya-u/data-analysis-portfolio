@@ -8,6 +8,12 @@
 - 📈 Интересы: анализ данных, финансовое моделирование, визуализация
 
 ## 📂 Проекты
+
+### 📊 Retail Sales Analysis
+Разведочный анализ данных (EDA) продаж ритейла: визуализация, корреляционный анализ, выводы.  
+**Стек:** Python, pandas, matplotlib, seaborn  
+🔗 [Перейти к проекту](https://github.com/Evgeniya-u/retail-sales-analysis)
+
 ### 🗄️ SQL Practice
 Набор SQL-запросов для анализа данных: JOIN, подзапросы, оконные функции, агрегация.  
 🔗 [Перейти к проекту](https://github.com/Evgeniya-u/sql-practice)
